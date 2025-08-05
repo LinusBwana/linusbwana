@@ -1,6 +1,11 @@
 ## Hi there 👋
 # 💫 About Me:
-I am Linus Bwana, a self-taught FullStack developer and aspiring Software Engineer specializing in back-end systems. Currently, I am enrolled in the ALX Africa Professional Backend Developer program, where I am honing my skills in scalable system design and server-side technologies. I am eager to collaborate on innovative projects and welcome opportunities to contribute my expertise.
+I'm a self-taught **Full-Stack Developer** and aspiring **Software Engineer**, with a strong focus on **backend systems**.
+Currently, I'm enrolled in the **ALX Africa Professional Backend Developer Program**, where I'm mastering critical technologies and concepts including:
+- **Python**, **JavaScript**, and **SQL**
+- **API development** and **microservices**
+- **DevOps tools** like **Docker** and **Kubernetes**
+- **Scalable system design** and **cloud-native architecture**
 
 
 # 💻 Tech Stack:
