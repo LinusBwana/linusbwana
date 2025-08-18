@@ -2,7 +2,7 @@
 # 💫 About Me:
 I'm a self-taught **Full-Stack Developer** and aspiring **Software Engineer**, with a strong focus on **backend systems**.
 Currently, I'm enrolled in the **ALX Africa Professional Backend Developer Program**, where I'm mastering critical technologies and concepts including:
-- **Python**, **JavaScript**, and **SQL**
+- **Python**, **JavaScript**, and **PostgreSQL**
 - **API development** and **microservices**
 - **DevOps tools** like **Docker** and **Kubernetes**
 - **Scalable system design** and **cloud-native architecture**
